@@ -5,9 +5,14 @@
 
 .direita{
     text-align: right;
-}
-
-
 .esquerda{
     text-align: left;
+}
+.imagem{
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Fluovamusic%2Fjujutsu-kaisen-season-2-ost-divine-general-mahoraga-fanmade&psig=AOvVaw0XeMo8RyA1Emgy2XrP_1v-&ust=1716995873392000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPin6ZrSsIYDFQAAAAAdAAAAABAK  
+}
+
+.flex{
+display: flex;
+
 }
